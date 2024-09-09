@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil GitHub! Sou uma estudante apaixonada por tecnologia e es
 💻 **Tecnologias que amo**: JavaScript, Python, React, Node.js  
 🌟 **Interesses**: Desenvolvimento Web, Ciência de Dados, Inteligência Artificial  
 🌍 **Localização**: Poloni, SP, Brasil  
-✉️ **Contato**: [Seu Email]  
+✉️ **Contato**: 00001106863094sp@al.educacao.sp.gov.br 
 
 ## Minhas Skills
 
